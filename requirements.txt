@@ -1,0 +1,6 @@
+pytest
+requests
+
+# Development
+pdbpp
+pytest
